@@ -1,1 +1,1 @@
-# blackjack_parallel_neural_network
+# A Neural Network that plays Blackjack
